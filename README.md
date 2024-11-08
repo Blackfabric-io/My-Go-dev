@@ -1,0 +1,1 @@
+Catatan pengembangan skill GoLang
